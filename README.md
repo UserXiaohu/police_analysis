@@ -37,45 +37,45 @@
 
 针对管理员权限的功能模块包括可视化模块，用户管理功能、公告管理功能，版本管理功能、警情类别管理功能、警情性质管理功能、以及警情管理功能。
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image002.png)
 
 ## 五、运行截图
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image004.png)
 
  
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image006.png)
 
  
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image006.png)
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
-
- 
-
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image008.png)
 
  
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image010.png)
 
  
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image012.png)
 
  
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)
-
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image014.png)
 
  
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image016.png)
 
-![img](file:///C:/Users/胡云飞/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image018.png)
+
+ 
+
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image020.png)
+
+![img](https://github.com/UserXiaohu/police_analysis/blob/main/img/clip_image022.jpg)
 
  
 
