@@ -1,6 +1,6 @@
 ## 零、项目获取
 
-获取方式（点击下载）：[是云猿实战](http://shiyuncode.com/details?id=44)
+获取方式（点击下载）：[是云猿实战](https://shiyuncode.com/details?goodsCode=C00044)
 
 项目经过多人测试运行，可以确保100%成功运行。
 
